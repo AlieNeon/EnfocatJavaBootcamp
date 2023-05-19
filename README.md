@@ -7,6 +7,6 @@ Con uso de github pages puedes ver este mismo readme alli con el siguiente enlac
 [Github page para la repo](https://alieneon.github.io/EnfocatJavaBootcamp/)
 
 ## Indice
-[Regex](regex)
-[Git](git)
-[HTML](html)
+- [Regex](regex)
+- [Git](git)
+- [HTML](html)
