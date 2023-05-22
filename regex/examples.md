@@ -55,9 +55,9 @@ Bernal David
 Answer: (\w+)\s(\w+) r: $2 $1
 
 ### Exercice 2
-David Bernal gonzalez
+David Bernal Gonzalez
 
-Bernal David
+Gonzalez Bernal David
 Answer: (\w+)\s(\w+)\s(\w+) r: $3 $2 $1
 
 ## Conditionals
