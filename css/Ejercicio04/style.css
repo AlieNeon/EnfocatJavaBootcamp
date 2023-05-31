@@ -16,26 +16,38 @@ p {
 [id] {
 }
 
-[href="https://www.yahoo.com"]{
+[href="https://www.yahoo.com"]
+{
 }
 
 [class^="title"] {
 }
 
-[href$=".com"]{}
+[href$=".com"] {
+}
 
-[class|="title"]{}
+[class|="title"] {
+}
 
-[href*="127"]{}
+[href*="127"] {
+}
 
-[href^="http"]{}
+[href^="http"] {
+}
 
-a, p, h1{}
+a,
+p,
+h1 {
+}
 
-main p{}
+main p {
+}
 
-h1 + *{}
+h1 + * {
+}
 
-h1 ~ *{}
+h1 ~ * {
+}
 
-main > *{}
+main > * {
+}
