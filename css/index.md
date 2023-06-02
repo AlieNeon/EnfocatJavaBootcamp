@@ -8,3 +8,4 @@ Aqui estaran lso ejercicios de css
 - [Ejercicio 3](Ejercicio03)
 - [Ejercicio 4](Ejercicio04)
 - [Ejercicio 5](Ejercicio05)
+- [Ejercicio 6](Ejercicio06)

@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 2px solid red;
+}
+
+h1:hover {
+  color: green;
+}
+
+p::selection {
+  color: white;
+  background-color: blue;
+}
