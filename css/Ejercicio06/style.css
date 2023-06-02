@@ -4,6 +4,8 @@ body {
 
 h1 {
   color: red;
+  display: inline-block;
+  margin: 10px;
 }
 
 p {
@@ -11,7 +13,7 @@ p {
   column-rule: 2px solid red;
 }
 
-h1 span:hover {
+h1:hover {
   color: green;
 }
 
