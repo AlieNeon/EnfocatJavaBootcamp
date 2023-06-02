@@ -11,7 +11,7 @@ p {
   column-rule: 2px solid red;
 }
 
-h1:hover {
+h1 span:hover {
   color: green;
 }
 
