@@ -1,6 +1,9 @@
 # CSS
 
-Aqui estaran lso ejercicios de css
+Aqui estaran los ejercicios de css
+
+## Explicaciones 
+![Box model explanation](boxmodel.png)
 
 ## Selectores
 - [Ejercicio 1](Ejercicio01)
@@ -8,4 +11,7 @@ Aqui estaran lso ejercicios de css
 - [Ejercicio 3](Ejercicio03)
 - [Ejercicio 4](Ejercicio04)
 - [Ejercicio 5](Ejercicio05)
-- [Ejercicio 6](Ejercicio06)
+
+## Atributos
+- [Ejercicio 6: Column](Ejercicio06)
+- [Ejercicio 7: Box model](Ejercicio07)
