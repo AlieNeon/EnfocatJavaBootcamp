@@ -1,13 +1,13 @@
-p{
+p {
   width: 300px;
   height: 100px;
   background-color: chartreuse;
 }
 
-.hidden{
+.hidden {
   overflow: hidden;
 }
 
-.scroll{
+.scroll {
   overflow-y: scroll;
 }
