@@ -15,3 +15,4 @@ Aqui estaran los ejercicios de css
 ## Atributos
 - [Ejercicio 6: Column](Ejercicio06)
 - [Ejercicio 7: Box model](Ejercicio07)
+- [Ejercicio 8: Text and box alignment](Ejercicio08)
