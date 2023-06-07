@@ -19,3 +19,4 @@ Aqui estaran los ejercicios de css
 - [Ejercicio 9: Border radius circular](Ejercicio09)
 - [Ejercicio 10: Overflow](Ejercicio10)
 - [Ejercicio 11: Outline](Ejercicio11)
+- [Ejercicio 12: Position](Ejercicio11)
