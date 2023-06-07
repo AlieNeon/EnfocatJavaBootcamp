@@ -1,0 +1,31 @@
+header{
+  height: 100px;
+  background-color: red;
+}
+
+nav{
+  height: 30px;
+  background-color: blue;
+}
+
+main{
+  height: 300px;
+  width: 55%;
+  float: left;
+  background-color: bisque;
+}
+
+aside{
+  width: 40%;
+  height: 300px;
+  float: right;
+  background-color: violet;
+}
+
+footer{
+  position: sticky;
+  bottom: 0px;
+  height: 50px;
+  background-color: lime;
+  clear: left;
+}

@@ -22,3 +22,4 @@ Aqui estaran los ejercicios de css
 - [Ejercicio 12: Position](Ejercicio12)
 - [Ejercicio 13: Diana](Ejercicio13)
 - [Ejercicio 14: Float](Ejercicio14)
+- [Ejercicio 15: Float and Clear](Ejercicio15)
