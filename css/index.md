@@ -20,4 +20,5 @@ Aqui estaran los ejercicios de css
 - [Ejercicio 10: Overflow](Ejercicio10)
 - [Ejercicio 11: Outline](Ejercicio11)
 - [Ejercicio 12: Position](Ejercicio12)
-- [Ejercicio 13: z-index](Ejercicio13)
+- [Ejercicio 13: Diana](Ejercicio13)
+- [Ejercicio 14: Float](Ejercicio14)

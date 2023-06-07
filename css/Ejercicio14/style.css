@@ -1,0 +1,11 @@
+div {
+  width: 60%;
+  height: 300px;
+  float: right;
+  background-color: brown;
+}
+
+p {
+  width: 40%;
+  float: left;
+}
