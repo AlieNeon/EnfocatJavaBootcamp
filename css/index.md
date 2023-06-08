@@ -30,8 +30,8 @@ Aqui estaran los ejercicios de css
 ## Flex Box
 - [x] [Ejercicio 19](Ejercicio19) 
 - [x] [Ejercicio 20](Ejercicio20)
-- [ ] [Ejercicio 21](Ejercicio21)
-- [ ] [Ejercicio 22](Ejercicio22)
+- [ ] [Ejercicio 21](Ejercicio21) Too long
+- [x] [Ejercicio 22](Ejercicio22)
 
 ## Grid
 - [ ] [Ejercicio 23: Responsive](Ejercicio23)
