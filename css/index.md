@@ -23,5 +23,6 @@ Aqui estaran los ejercicios de css
 - [Ejercicio 13: Diana](Ejercicio13)
 - [Ejercicio 14: Float](Ejercicio14)
 - [Ejercicio 15: Float and Clear](Ejercicio15)
-- [Ejercicio 16: Media querry](Ejercicio16)
-- [Ejercicio 17: Responsive boxing](Ejercicio17)
+- [Ejercicio 16: RGB](Ejercicio16)
+- [Ejercicio 17: Media querry](Ejercicio17)
+- [Ejercicio 18: Responsive boxing](Ejercicio18)
