@@ -19,22 +19,22 @@
   -o-border-radius: 50%;
 }
 
-.bit1{
+.bit1 {
   top: -10px;
   left: -10px;
 }
 
-.bit2{
+.bit2 {
   top: -10px;
   right: -10px;
 }
 
-.bit3{
+.bit3 {
   bottom: -10px;
   left: -10px;
 }
 
-.bit4{
+.bit4 {
   bottom: -10px;
   right: -10px;
 }

@@ -1,4 +1,4 @@
-.circle{
+.circle {
   position: relative;
   border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -16,7 +16,7 @@
   -o-transform: translateY(-50%);
 }
 
-#circle-0{
+#circle-0 {
   transform: translateY(0%);
   margin: auto;
   background-color: silver;
@@ -26,10 +26,10 @@
   -o-transform: translateY(0%);
 }
 
-.red{
+.red {
   background-color: red;
 }
 
-.white{
+.white {
   background-color: white;
 }
