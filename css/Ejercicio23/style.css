@@ -78,7 +78,7 @@
 
   .menu {
     --rowspan: 7;
-    grid-row: 5 / span var(--rowspan);
+    grid-row: span var(--rowspan) / -1;
     grid-column: 1 / span 1;
   }
 

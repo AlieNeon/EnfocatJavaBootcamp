@@ -34,7 +34,7 @@ Aqui estaran los ejercicios de css
 - [x] [Ejercicio 22](Ejercicio22)
 
 ## Grid
-- [ ] [Ejercicio 23: Responsive](Ejercicio23)
+- [x] [Ejercicio 23: Responsive](Ejercicio23)
 - [ ] [Ejercicio 24](Ejercicio24)
 - [ ] [Ejercicio 25](Ejercicio25)
 
