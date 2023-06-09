@@ -35,11 +35,11 @@ Aqui estaran los ejercicios de css
 
 ## Grid
 - [x] [Ejercicio 23: Responsive](Ejercicio23)
-- [ ] [Ejercicio 24](Ejercicio24)
+- [x] [Ejercicio 24](Ejercicio24)
 - [ ] [Ejercicio 25](Ejercicio25)
 
 ## Ejercicios finales
-- [ ] [Ejercicio 26: Front End Mentor](Ejercicio26)
+- [x] [Ejercicio 26: Front End Mentor](Ejercicio26)
 - [ ] [Ejercicio 27: Spotify](Ejercicio27)
 - [ ] [Ejercicio 28: CV Amazon](Ejercicio28)
 - [ ] [Ejercicio 29: Spotify SASSY](Ejercicio29)
