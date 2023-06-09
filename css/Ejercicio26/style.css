@@ -92,4 +92,7 @@ main {
   .box {
     height: 400px;
   }
+  body {
+    padding: 100px;
+  }
 }
