@@ -15,9 +15,10 @@ div {
   display: inline-block;
   margin: 0px auto;
 }
-.rgb{
+.rgb {
   position: relative;
   height: 300px;
+  width: 300px;
 }
 
 .rgb .ball {
@@ -47,7 +48,7 @@ div {
   background-color: blue;
 }
 
-.rgb .ball{
+.rgb .ball {
   transform: translateX(50%);
   -webkit-transform: translateX(50%);
   -moz-transform: translateX(50%);
