@@ -71,7 +71,6 @@ p {
 
 main {
   overflow: hidden;
-  display: flex;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -83,12 +82,12 @@ main {
   .box {
     height: 300px;
   }
-  main {
-    flex-direction: column;
-  }
 }
 
 @media (width > 768px) {
+  main {
+    display: flex;
+  }
   .box {
     height: 400px;
   }
