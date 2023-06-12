@@ -41,5 +41,3 @@ Aqui estaran los ejercicios de css
 ## Ejercicios finales
 - [x] [Ejercicio 26: Front End Mentor](Ejercicio26)
 - [x] [Ejercicio 27: Spotify](Ejercicio27)
-- [ ] [Ejercicio 28: CV Amazon](Ejercicio28)
-- [ ] [Ejercicio 29: Spotify SASSY](Ejercicio29)
