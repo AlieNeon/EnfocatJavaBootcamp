@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lexend Deca";
+  padding: 20px;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 95%);
+  width: 95vw;
+  margin: auto;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+h2,
+button {
+  font-family: "Big Shoulders Display";
+  color: hsl(0, 0%, 95%);
+}
+
+.sedan {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suv {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.sedan button {
+  color: hsl(31, 77%, 52%);
+}
+
+.suv button {
+  color: hsl(184, 100%, 22%);
+}
+
+.luxury button {
+  color: hsl(179, 100%, 13%);
+}
+
+.box {
+  padding: 20px;
+  position: relative;
+}
+
+button {
+  position: absolute;
+  bottom: 30px;
+  padding: 10px;
+  border-radius: 50vh;
+  -webkit-border-radius: 50vh;
+  -moz-border-radius: 50vh;
+  -ms-border-radius: 50vh;
+  -o-border-radius: 50vh;
+}
+
+h2,
+p {
+  margin: 10px auto;
+  width: 90%;
+}
+
+main {
+  overflow: hidden;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+@media (width <= 768px) {
+  .box {
+    height: 300px;
+  }
+}
+
+@media (width > 768px) {
+  main {
+    display: flex;
+  }
+  .box {
+    height: 400px;
+  }
+  body {
+    padding: 100px;
+  }
+}

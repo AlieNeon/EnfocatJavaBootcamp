@@ -1,0 +1,32 @@
+table {
+  border: 10px solid black;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h1,
+table {
+  text-align: center;
+  width: 50%;
+  margin: 1px auto;
+}
+
+tbody td {
+  border-left: 1px solid black;
+  border-bottom: 3px solid black;
+}
+
+tr * {
+  padding: 5px 20px;
+}
+
+h1 span,
+tfoot {
+  background-color: aqua;
+  font-weight: bold;
+}

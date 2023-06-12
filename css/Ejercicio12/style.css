@@ -1,0 +1,40 @@
+.box {
+  margin: 100px auto;
+  position: relative;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+[class^="bit"] {
+  text-align: center;
+  background-color: chartreuse;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.bit1 {
+  top: -10px;
+  left: -10px;
+}
+
+.bit2 {
+  top: -10px;
+  right: -10px;
+}
+
+.bit3 {
+  bottom: -10px;
+  left: -10px;
+}
+
+.bit4 {
+  bottom: -10px;
+  right: -10px;
+}

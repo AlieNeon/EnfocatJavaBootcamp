@@ -1,0 +1,70 @@
+.box {
+  width: 47vw;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+h1,
+div {
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+.table .ball {
+  display: inline-block;
+  margin: 0px auto;
+}
+.rgb {
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+
+.rgb .ball {
+  position: absolute;
+  width: 100px;
+}
+
+.ball {
+  background-color: black;
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  mix-blend-mode: plus-lighter;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: lime;
+}
+.blue {
+  background-color: blue;
+}
+
+.rgb .ball {
+  transform: translateX(50%);
+  -webkit-transform: translateX(50%);
+  -moz-transform: translateX(50%);
+  -ms-transform: translateX(50%);
+  -o-transform: translateX(50%);
+}
+
+.rgb .red {
+  top: 32%;
+  right: 60%;
+}
+.rgb .green {
+  top: 32%;
+  right: 40%;
+}
+.rgb .blue {
+  top: 50%;
+  right: 50%;
+}

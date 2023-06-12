@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  color: #1a1a1a;
+  background-color: #fff;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.txt-white {
+  color: #fff;
+}
+
+.txt-green {
+  color: #00b172;
+}
+
+.txt-grey {
+  color: #1a1a1a55;
+}
+
+.underline-green {
+  border-bottom: 1px solid #00b172;
+}
+
+.underline-white {
+  border-bottom: 1px solid #fff;
+}
+
+.back-green {
+  background-color: #00b172;
+}
+
+header {
+  justify-content: space-between;
+  height: fit-content;
+  padding: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
+
+nav {
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(images/landing.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.icon img {
+  width: 50%;
+  height: auto;
+}
+
+section {
+  margin: 20px;
+  padding: 50px;
+}  
+
+.card {
+  justify-content: space-around;
+  margin: 50px 10px;
+}  
+
+.card > div {
+  width: 250px;
+}
+
+.content {
+  text-align: left;
+}
+
+@media (width > 800px) {
+  .flex {
+    display: flex;
+  }
+
+  .welcome {
+    height: 120vh;
+    background-attachment: fixed;
+  }
+
+  .welcome > * {
+    width: 750px;
+  }
+
+  .welcome > h1 {
+    font-size: 4em;
+  }
+
+  .welcome > p {
+    font-size: 2em;
+  }
+  
+  h2 {
+    width: fit-content;
+    margin: 20px auto;
+  }
+
+  .back-logo {
+    background-image: url(images/spotify-icon-white.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+
+  article {
+    justify-content: space-around;
+    margin: 0px;
+  }
+
+  .content {
+    width: 300px;
+    margin: 0;
+  }
+
+  .content p,
+  .content h3 {
+    width: 60%;
+  }
+
+  .content img {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (width <= 800px) {
+  nav {
+    margin: auto;
+  }
+
+  .welcome {
+    height: 80vh;
+  }
+
+  .welcome > * {
+    width: 300px;
+  }
+
+  .welcome > h1 {
+    font-size: 3em;
+  }
+
+  .welcome > p {
+    font-size: 1.5em;
+  }
+
+  .card > div {
+    margin: auto;
+  }
+
+  h2 {
+    width: fit-content;
+    margin: 20px auto;
+  }
+
+  .content {
+    width: fit-content;
+  }
+
+  .content img {
+    display: none;
+  }
+}
