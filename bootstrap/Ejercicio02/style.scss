@@ -1,0 +1,20 @@
+//* Vars
+$primary: lime;
+$secondary: rgb(148, 90, 23);
+$success: green;
+$info: cyan;
+$warning: orange;
+$danger: red;
+$light: #000;
+$dark: #fff;
+$alie: #fe3370;
+
+//* Base
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+//* Custom class
+
+//? Why would i do a headache inducing stuff is i need to to a class myself anyway
+.text-alie {
+  color: $alie;
+}
