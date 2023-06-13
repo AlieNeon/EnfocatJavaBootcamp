@@ -13737,7 +13737,7 @@ fieldset:disabled .btn {
 
 /* imports */
 /* My changes */
-@media (max-width: 499.98px) {
+@media (max-width: 749.98px) {
   * {
     background-color: violet;
   }
