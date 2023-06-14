@@ -6,7 +6,7 @@
 - [x] [Ejercicio03: Grid](Ejercicio03)
 - [x] [Ejercicio04: Grid](Ejercicio04)
 - [x] [Ejercicio05: Grid Breakpoint](Ejercicio05)
-- [ ] [Ejercicio06: Grid Auto](Ejercicio06)
+- [x] [Ejercicio06: Grid Auto](Ejercicio06)
 - [ ] [Ejercicio07: Align](Ejercicio07)
 - [ ] [Ejercicio08: Align](Ejercicio08)
 - [ ] [Ejercicio09: Order](Ejercicio09)
