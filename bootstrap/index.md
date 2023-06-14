@@ -5,7 +5,7 @@
 - [x] [Ejercicio02: Custom Colors](Ejercicio02)
 - [x] [Ejercicio03: Grid](Ejercicio03)
 - [x] [Ejercicio04: Grid](Ejercicio04)
-- [ ] [Ejercicio05: Grid Breakpoint](Ejercicio05)
+- [x] [Ejercicio05: Grid Breakpoint](Ejercicio05)
 - [ ] [Ejercicio06: Grid Auto](Ejercicio06)
 - [ ] [Ejercicio07: Align](Ejercicio07)
 - [ ] [Ejercicio08: Align](Ejercicio08)
