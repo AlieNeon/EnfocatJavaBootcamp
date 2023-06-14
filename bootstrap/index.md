@@ -17,4 +17,4 @@
 - [ ] [Ejercicio14: Responsive Cards](Ejercicio14)
 - [ ] [Ejercicio15: Responsive testimonials](Ejercicio15)
 - [ ] [Ejercicio16: Airbnb](Ejercicio16)
-- [ ] [Ejercicio17: Dysplay](Ejercicio17)
+- [x] [Ejercicio17: Display](Ejercicio17)
