@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Order y Offset</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Bootstrap CSS v5.2.1 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous" />
+    <!-- Bootstrap JavaScript Libraries -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
+      integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz"
+      crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+    <div class="container-flex vh-100 m-4 text-center">
+      <div class="row justify-content-between">
+        <div class="bg-warning border-dark border border-3 col order-last">
+          1
+        </div>
+        <div class="bg-warning border-dark border border-3 col">
+          2
+        </div>
+        <div class="bg-warning border-dark border border-3 col order-first">
+          3
+        </div>
+      </div>
+      <div class="row justify-content-between">
+        <div class="order-xl-3 bg-warning border-dark border border-3 col">
+          order-xl-3
+        </div>
+        <div class="order-xl-2 bg-warning border-dark border border-3 col">
+          order-xl-2
+        </div>
+        <div class="order-xl-1 bg-warning border-dark border border-3 col">
+          order-xl-1
+        </div>
+      </div>
+      <div class="row justify-content-between">
+        <div class="bg-warning border-dark border border-3 col-3">
+          col3
+        </div>
+        <div class="offset-3 ml-auto bg-warning border-dark border border-3 col-3">
+          col3 mlauto
+        </div>
+        <div class="bg-warning border-dark border border-3 col-3">
+          col3
+        </div>
+      </div>
+      <div class="row justify-content-between">
+        <div class="offset-3 ml-auto bg-warning border-dark border border-3 col-3">
+          col3 mlauto
+        </div>
+        <div class="offset-3 ml-auto bg-warning border-dark border border-3 col-3">
+          col3 mlauto
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

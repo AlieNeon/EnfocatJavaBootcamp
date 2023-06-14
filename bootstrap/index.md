@@ -9,7 +9,7 @@
 - [x] [Ejercicio06: Grid Auto](Ejercicio06)
 - [x] [Ejercicio07: Align](Ejercicio07)
 - [x] [Ejercicio08: Justify content](Ejercicio08)
-- [ ] [Ejercicio09: Order y Offset](Ejercicio09)
+- [x] [Ejercicio09: Order y Offset](Ejercicio09)
 - [ ] [Ejercicio10: Offset y Order](Ejercicio12)
 - [ ] [Ejercicio11: Responsive](Ejercicio13)
 - [ ] [Ejercicio12: Responsive](Ejercicio14)
