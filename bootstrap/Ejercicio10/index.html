@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Order, Offset y Display</title>
+    <title>Order y display</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -19,26 +19,82 @@
       crossorigin="anonymous"></script>
   </head>
   <body>
-    <div class="container-flex vh-100 m-4 text-center gap-3">
-      <header class="row bg-success border border-dark"><h1>Header</h1></header>
-      <div class="row">
-        <div class="col bg-primary border border-dark">1</div>
-        <div class="col bg-primary border border-dark">2</div>
-        <div class="col bg-primary border border-dark">3</div>
-        <div class="col bg-primary border border-dark">4</div>
+    <div class="container-flex vh-100 m-4 text-center">
+      <header class="row g-3 py-1">
+        <div class="col">
+          <div class="py-3 bg-success border border-dark">Header</div>
+        </div>
+      </header>
+      <div class="row row-cols-2 row-cols-sm-4 d-none d-md-flex h-25 g-3 py-1">
+        <div class="col col-md-3">
+          <div class="py-3 bg-primary border border-dark">1</div>
+        </div>
+        <div class="col col-md-3">
+          <div class="py-3 bg-primary border border-dark">2</div>
+        </div>
+        <div class="col col-md-3 align-self-md-end order-md-first">
+          <div class="py-3 bg-primary border border-dark">3</div>
+        </div>
+        <div class="col col-md-3 align-self-md-end">
+          <div class="py-3 bg-primary border border-dark">4</div>
+        </div>
       </div>
-      <div class="row bg-info d-none d-sm-block d-md-none border border-dark">Tablet</div>
-      <div class="row">
-        <div class="col bg-secondary border border-dark">a</div>
-        <div class="col bg-secondary border border-dark">b</div>
-        <div class="col bg-secondary border border-dark">c</div>
-        <div class="col bg-secondary border border-dark">d</div>
+      <div class="row row-cols-2 row-cols-sm-4 d-flex d-md-none g-3 py-1">
+        <div class="col col-md-3">
+          <div class="py-3 bg-primary border border-dark">1</div>
+        </div>
+        <div class="col col-md-3">
+          <div class="py-3 bg-primary border border-dark">2</div>
+        </div>
+        <div class="col col-md-3 align-self-md-end order-md-first">
+          <div class="py-3 bg-primary border border-dark">3</div>
+        </div>
+        <div class="col col-md-3 align-self-md-end">
+          <div class="py-3 bg-primary border border-dark">4</div>
+        </div>
       </div>
-      <div class="row">
-        <div class="col bg-warning border border-dark">:D</div>
-        <div class="col bg-warning border border-dark">:(</div>
+      <div class="row g-3 py-1 d-none d-sm-block d-md-none">
+        <div class="col">
+          <div class="py-3 bg-info border border-dark">Tablet</div>
+        </div>
       </div>
-      <footer class="row bg-success border border-dark"><p>Footer</p></footer>
+      <div class="row row-cols-2 row-cols-sm-4 g-3 py-1">
+        <div class="col order-md-4">
+          <div class="py-3 bg-secondary border border-dark">a</div>
+        </div>
+        <div class="col order-md-3">
+          <div class="py-3 bg-secondary border border-dark">b</div>
+        </div>
+        <div class="col order-md-2">
+          <div class="py-3 bg-secondary border border-dark">c</div>
+        </div>
+        <div class="col order-md-1">
+          <div class="py-3 bg-secondary border border-dark">d</div>
+        </div>
+      </div>
+      <div class="row g-3 py-1 d-none d-md-block">
+        <div class="col">
+          <div class="py-3 bg-info border border-dark">Desktop</div>
+        </div>
+      </div>
+      <div class="row g-3 py-1 d-block d-sm-none">
+        <div class="col">
+          <div class="py-3 bg-info border border-dark">Mobile</div>
+        </div>
+      </div>
+      <div class="row g-3 py-1 justify-content-center">
+        <div class="col col-md-3">
+          <div class="py-3 bg-warning border border-dark">:D</div>
+        </div>
+        <div class="col col-md-3 d-none d-sm-block">
+          <div class="py-3 bg-warning border border-dark">:(</div>
+        </div>
+      </div>
+      <footer class="row g-3 py-1 d-none d-sm-block">
+        <div class="col">
+          <div class="py-3 bg-success border border-dark">Footer</div>
+        </div>
+      </footer>
     </div>
   </body>
 </html>
