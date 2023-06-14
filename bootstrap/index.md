@@ -12,7 +12,7 @@
 - [x] [Ejercicio09: Order y display](Ejercicio09)
 - [x] [Ejercicio10: Offset y Order](Ejercicio10)
 - [x] [Ejercicio11: Responsive](Ejercicio11)
-- [ ] [Ejercicio12: Responsive](Ejercicio12)
+- [x] [Ejercicio12: Responsive](Ejercicio12)
 - [ ] [Ejercicio13: Table](Ejercicio13)
 - [ ] [Ejercicio14: Responsive Cards](Ejercicio14)
 - [ ] [Ejercicio15: Responsive testimonials](Ejercicio15)
