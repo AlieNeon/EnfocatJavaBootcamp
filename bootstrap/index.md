@@ -15,6 +15,6 @@
 - [x] [Ejercicio12: Responsive](Ejercicio12)
 - [x] [Ejercicio13: Table](Ejercicio13)
 - [x] [Ejercicio14: Responsive Cards](Ejercicio14)
-- [ ] [Ejercicio15: Responsive testimonials](Ejercicio15)
+- [x] [Ejercicio15: Responsive testimonials](Ejercicio15)
 - [ ] [Ejercicio16: Airbnb](Ejercicio16)
 - [x] [Ejercicio17: Display](Ejercicio17)
