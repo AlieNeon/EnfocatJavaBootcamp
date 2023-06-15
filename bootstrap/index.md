@@ -13,7 +13,7 @@
 - [x] [Ejercicio10: Offset y Order](Ejercicio10)
 - [x] [Ejercicio11: Responsive](Ejercicio11)
 - [x] [Ejercicio12: Responsive](Ejercicio12)
-- [ ] [Ejercicio13: Table](Ejercicio13)
+- [x] [Ejercicio13: Table](Ejercicio13)
 - [ ] [Ejercicio14: Responsive Cards](Ejercicio14)
 - [ ] [Ejercicio15: Responsive testimonials](Ejercicio15)
 - [ ] [Ejercicio16: Airbnb](Ejercicio16)
