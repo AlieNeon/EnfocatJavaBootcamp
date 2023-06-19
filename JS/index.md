@@ -8,3 +8,4 @@ Ejercicios de Javasript
 - [x] [Ejercicio 4: Conditionals](Ejercicio04)
 - [x] [Ejercicio 5: Operations](Ejercicio05)
 - [x] [Ejercicio 6: Progate](Ejercicio06.png)
+- [x] [Ejercicio 7: Switch](Ejercicio07)
