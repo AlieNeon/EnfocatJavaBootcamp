@@ -5,3 +5,6 @@ Ejercicios de Javasript
 - [x] [Ejercicio 1: Prompts y alerts](Ejercicio01)
 - [x] [Ejercicio 2: Types](Ejercicio02)
 - [x] [Ejercicio 3: Functions](Ejercicio03)
+- [ ] [Ejercicio 4: Conditionals](Ejercicio04)
+- [ ] [Ejercicio 5: Operations](Ejercicio05)
+- [ ] [Ejercicio 6: Progate](Ejercicio06)
