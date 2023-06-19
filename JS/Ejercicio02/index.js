@@ -9,16 +9,16 @@ let types = {
   sym: Symbol(1),
   arr: [],
   obj: {},
-  fun: function(){}
-}
+  fun: function () {},
+};
 
-function printDataType(content){
-  console.log("Data:", content, "Type:", typeof content)
+function printDataType(content) {
+  console.log("Data:", content, "Type:", typeof content);
 }
 
 for (const key in types) {
   if (Object.hasOwnProperty.call(types, key)) {
     const element = types[key];
-    printDataType(element)
+    printDataType(element);
   }
 }

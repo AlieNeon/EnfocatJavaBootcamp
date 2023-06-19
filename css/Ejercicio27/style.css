@@ -65,12 +65,12 @@ nav {
 section {
   margin: 20px;
   padding: 50px;
-}  
+}
 
 .card {
   justify-content: space-around;
   margin: 50px 10px;
-}  
+}
 
 .card > div {
   width: 250px;
@@ -101,7 +101,7 @@ section {
   .welcome > p {
     font-size: 2em;
   }
-  
+
   h2 {
     width: fit-content;
     margin: 20px auto;

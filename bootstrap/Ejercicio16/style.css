@@ -31,7 +31,7 @@ input {
   flex: 1;
 }
 
-.container-md button{
+.container-md button {
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   box-sizing: border-box;
@@ -39,7 +39,7 @@ input {
   width: fit-content;
 }
 
-.img{
+.img {
   position: relative;
 }
 
