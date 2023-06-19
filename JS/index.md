@@ -12,4 +12,4 @@ Ejercicios de Javasript
 - [x] [Ejercicio 8: Math](Ejercicio08)
 - [x] [Ejercicio 9: String methods](Ejercicio09)
 - [x] [Ejercicio 10: Loops](Ejercicio10)
-- [ ] [Ejercicio 11: Analize this code](Ejercicio11)
+- [x] [Ejercicio 11: Analize this code](Ejercicio11)

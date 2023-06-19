@@ -49,4 +49,4 @@ function parseStr(str) {
   }
 }
 
-console.log(parseStr("3"))
+console.log(parseStr("3"));

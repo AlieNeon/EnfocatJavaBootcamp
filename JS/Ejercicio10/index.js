@@ -4,8 +4,8 @@ for (let index = 0; index < 3; index++) {
 
 let arr = ["a", "b", "c", "d", "e"];
 
-arr.forEach(element => {
-  console.log(element)
+arr.forEach((element) => {
+  console.log(element);
 });
 
 let numero = 5;
