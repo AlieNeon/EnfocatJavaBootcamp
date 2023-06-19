@@ -9,9 +9,9 @@ function printBool(bool) {
 printBool(false);
 
 function printInfinite(...args) {
-  args.forEach(element => {
-    console.log("🚀 ~ file: index.js:13 ~ printInfinite ~ element:", element)
+  args.forEach((element) => {
+    console.log("🚀 ~ file: index.js:13 ~ printInfinite ~ element:", element);
   });
 }
 
-printInfinite(1, 2, 3, 4, 5)
+printInfinite(1, 2, 3, 4, 5);
