@@ -7,4 +7,4 @@ Ejercicios de Javasript
 - [x] [Ejercicio 3: Functions](Ejercicio03)
 - [x] [Ejercicio 4: Conditionals](Ejercicio04)
 - [x] [Ejercicio 5: Operations](Ejercicio05)
-- [ ] [Ejercicio 6: Progate](Ejercicio06)
+- [x] [Ejercicio 6: Progate](Ejercicio06.png)
