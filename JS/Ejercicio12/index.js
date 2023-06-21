@@ -26,5 +26,5 @@ console.log("🚀 ~ file: index.js:27 ~ hot:", hot.join(""));
 
 // 6 Añade una 🃏 cartas comodín entre medio de dos cartas
 let deck = [..."🎴🎴🎴🃏🎴🎴🎴"];
-deck = deck.reduce((acc, i) => acc + i + "🃏","");
-console.log("🚀 ~ file: index.js:31 ~ deck:", deck);
+deck = [...deck.reduce((acc, i) => acc + "🃏" + i)]
+console.log("🚀 ~ file: index.js:31 ~ deck:", deck.join(""));
