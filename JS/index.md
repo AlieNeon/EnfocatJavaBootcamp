@@ -13,3 +13,4 @@ Ejercicios de Javasript
 - [x] [Ejercicio 9: String methods](Ejercicio09)
 - [x] [Ejercicio 10: Loops](Ejercicio10)
 - [x] [Ejercicio 11: Analize this code](Ejercicio11)
+- [x] [Ejercicio 12: Arrays](Ejercicio12)
