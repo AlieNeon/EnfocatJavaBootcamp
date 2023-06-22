@@ -14,3 +14,4 @@ Ejercicios de Javasript
 - [x] [Ejercicio 10: Loops](Ejercicio10)
 - [x] [Ejercicio 11: Analize this code](Ejercicio11)
 - [x] [Ejercicio 12: Arrays](Ejercicio12)
+- [x] [Ejercicio 13: Arrays in DOM](Ejercicio13)
