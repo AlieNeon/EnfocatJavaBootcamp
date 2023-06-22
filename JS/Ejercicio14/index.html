@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png" />
+
+    <title>Frontend Mentor | Calculator app</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+      crossorigin="anonymous"></script>
+    <script
+      type="module"
+      src="index.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/css-toggle-switch/latest/toggle-switch.css"
+      rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="style.css" />
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="vh-100 container align-middle text-center">
+      <header class="p-2 flex">
+        <h1 class="h-100"><div>calc</div></h1>
+        <form>
+          <div>THEME</div>
+          <div class="switch-toggle switch-3 switch-candy">
+            <input
+              id="theme1"
+              name="state-d"
+              type="radio"
+              checked="" />
+            <label
+              for="theme1"
+              onclick="">
+              1
+            </label>
+            <input
+              id="theme2"
+              name="state-d"
+              type="radio" />
+            <label
+              for="theme2"
+              class="disabled"
+              onclick="">
+              2
+            </label>
+            <input
+              id="theme3"
+              name="state-d"
+              type="radio" />
+            <label
+              for="theme3"
+              onclick="">
+              3
+            </label>
+          </div>
+        </form>
+      </header>
+      <main class="h-75">
+        <div class="p-2 h-25">
+          <section
+            class="bg-dark text-light p-2 h-100 rounded"
+            id="display"></section>
+        </div>
+        <div class="p-2">
+          <section class="bg-dark-subtle p-2 rounded">
+            <div class="row py-2">
+              <div class="col">
+                <button class="btn">7</button>
+              </div>
+              <div class="col">
+                <button class="btn">8</button>
+              </div>
+              <div class="col">
+                <button class="btn">9</button>
+              </div>
+              <div class="col">
+                <button class="btn function">DEL</button>
+              </div>
+            </div>
+            <div class="row py-2">
+              <div class="col">
+                <button class="btn">4</button>
+              </div>
+              <div class="col">
+                <button class="btn">5</button>
+              </div>
+              <div class="col">
+                <button class="btn">6</button>
+              </div>
+              <div class="col">
+                <button class="btn">+</button>
+              </div>
+            </div>
+            <div class="row py-2">
+              <div class="col">
+                <button class="btn">1</button>
+              </div>
+              <div class="col">
+                <button class="btn">2</button>
+              </div>
+              <div class="col">
+                <button class="btn">3</button>
+              </div>
+              <div class="col">
+                <button class="btn">-</button>
+              </div>
+            </div>
+            <div class="row py-2">
+              <div class="col">
+                <button class="btn">.</button>
+              </div>
+              <div class="col">
+                <button class="btn">0</button>
+              </div>
+              <div class="col">
+                <button class="btn">/</button>
+              </div>
+              <div class="col">
+                <button class="btn">x</button>
+              </div>
+            </div>
+            <div class="row py-2">
+              <div class="col">
+                <button class="btn function">RESET</button>
+              </div>
+              <div class="col">
+                <button class="btn result">=</button>
+              </div>
+            </div>
+          </section>
+        </div>
+      </main>
+      <footer class="attribution">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank">
+          Frontend Mentor
+        </a>
+        Coded by <a href="https://github.com/alieneon">Alie</a>.
+      </footer>
+    </div>
+  </body>
+</html>

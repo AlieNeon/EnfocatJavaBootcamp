@@ -1,0 +1,23 @@
+.flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: white;
+  width: 100%;
+}
+
+.container {
+  width: 530px;
+}
+
+.function {
+  background-color: blue;
+  color: white;
+}
+
+.result {
+  background-color: firebrick;
+  color: white;
+}
