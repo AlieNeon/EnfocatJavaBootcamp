@@ -32,7 +32,7 @@ main {
 .btn:hover {
   background-color: #fff !important;
   text-decoration: none;
-  }
+}
 
 .function {
   color: var(--function-color);
@@ -67,16 +67,16 @@ html.theme1 {
   --function-color: hsl(0, 0%, 100%);
   --function-background-color: hsl(225, 21%, 49%);
   --function-box-shadow: hsl(224, 28%, 35%);
-  
+
   --result-color: hsl(0, 0%, 100%);
   --result-background-color: hsl(6, 63%, 50%);
   --result-box-shadow: hsl(6, 70%, 34%);
-  
+
   --display-color: hsl(0, 0%, 100%);
   --display-background-color: hsl(224, 36%, 15%);
-  
+
   --keyboard-background-color: hsl(223, 31%, 20%);
-  
+
   --body-background-color: hsl(222, 26%, 31%);
 }
 
@@ -88,16 +88,16 @@ html.theme2 {
   --function-color: hsl(0, 0%, 100%);
   --function-background-color: hsl(185, 42%, 37%);
   --function-box-shadow: hsl(185, 58%, 25%);
-  
+
   --result-color: hsl(0, 0%, 100%);
   --result-background-color: hsl(25, 98%, 40%);
   --result-box-shadow: hsl(25, 99%, 27%);
-  
+
   --display-color: hsl(60, 10%, 19%);
   --display-background-color: hsl(0, 0%, 93%);
-  
+
   --keyboard-background-color: hsl(0, 5%, 81%);
-  
+
   --body-background-color: hsl(0, 0%, 90%);
 }
 
@@ -109,15 +109,15 @@ html.theme3 {
   --function-color: hsl(0, 0%, 100%);
   --function-background-color: hsl(281, 89%, 26%);
   --function-box-shadow: hsl(285, 91%, 52%);
-  
+
   --result-color: hsl(198, 20%, 13%);
   --result-background-color: hsl(176, 100%, 44%);
   --result-box-shadow: hsl(177, 92%, 70%);
-  
+
   --display-color: hsl(52, 100%, 62%);
   --display-background-color: hsl(268, 71%, 12%);
-  
+
   --keyboard-background-color: hsl(268, 71%, 12%);
-  
+
   --body-background-color: hsl(268, 75%, 9%);
 }
