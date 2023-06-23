@@ -1,10 +1,16 @@
-.flex{
-  display: flex;
-  justify-content: space-between;
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap");
+
+/* Typeface */
+* {
+  font-family: "League Spartan", sans-serif;
 }
 
+main {
+  font-size: 32px;
+}
+
+/* Basic propierties */
 .btn {
-  background-color: white;
   width: 100%;
 }
 
@@ -12,12 +18,106 @@
   width: 530px;
 }
 
+.display {
+  text-align: right;
+}
+
+/* Theming */
+.btn {
+  color: var(--btn-color);
+  background-color: var(--btn-background-color);
+  box-shadow: var(--btn-box-shadow) 0px 2px;
+}
+
+.btn:hover {
+  background-color: #fff !important;
+  text-decoration: none;
+  }
+
 .function {
-  background-color: blue;
-  color: white;
+  color: var(--function-color);
+  background-color: var(--function-background-color);
+  box-shadow: var(--function-box-shadow) 0px 2px;
 }
 
 .result {
-  background-color: firebrick;
-  color: white;
+  color: var(--result-color);
+  background-color: var(--result-background-color);
+  box-shadow: var(--result-box-shadow) 0px 2px;
+}
+
+.display {
+  color: var(--display-color);
+  background-color: var(--display-background-color);
+}
+
+.keyboard {
+  background-color: var(--keyboard-background-color);
+}
+
+body {
+  background-color: var(--body-background-color);
+}
+
+html.theme1 {
+  --btn-color: hsl(221, 14%, 31%);
+  --btn-background-color: hsl(30, 25%, 89%);
+  --btn-box-shadow: hsl(28, 16%, 65%);
+
+  --function-color: hsl(0, 0%, 100%);
+  --function-background-color: hsl(225, 21%, 49%);
+  --function-box-shadow: hsl(224, 28%, 35%);
+  
+  --result-color: hsl(0, 0%, 100%);
+  --result-background-color: hsl(6, 63%, 50%);
+  --result-box-shadow: hsl(6, 70%, 34%);
+  
+  --display-color: hsl(0, 0%, 100%);
+  --display-background-color: hsl(224, 36%, 15%);
+  
+  --keyboard-background-color: hsl(223, 31%, 20%);
+  
+  --body-background-color: hsl(222, 26%, 31%);
+}
+
+html.theme2 {
+  --btn-color: hsl(60, 10%, 19%);
+  --btn-background-color: hsl(45, 7%, 89%);
+  --btn-box-shadow: hsl(35, 11%, 61%);
+
+  --function-color: hsl(0, 0%, 100%);
+  --function-background-color: hsl(185, 42%, 37%);
+  --function-box-shadow: hsl(185, 58%, 25%);
+  
+  --result-color: hsl(0, 0%, 100%);
+  --result-background-color: hsl(25, 98%, 40%);
+  --result-box-shadow: hsl(25, 99%, 27%);
+  
+  --display-color: hsl(60, 10%, 19%);
+  --display-background-color: hsl(0, 0%, 93%);
+  
+  --keyboard-background-color: hsl(0, 5%, 81%);
+  
+  --body-background-color: hsl(0, 0%, 90%);
+}
+
+html.theme3 {
+  --btn-color: hsl(52, 100%, 62%);
+  --btn-background-color: hsl(268, 47%, 21%);
+  --btn-box-shadow: hsl(290, 70%, 36%);
+
+  --function-color: hsl(0, 0%, 100%);
+  --function-background-color: hsl(281, 89%, 26%);
+  --function-box-shadow: hsl(285, 91%, 52%);
+  
+  --result-color: hsl(198, 20%, 13%);
+  --result-background-color: hsl(176, 100%, 44%);
+  --result-box-shadow: hsl(177, 92%, 70%);
+  
+  --display-color: hsl(52, 100%, 62%);
+  --display-background-color: hsl(268, 71%, 12%);
+  
+  --keyboard-background-color: hsl(268, 71%, 12%);
+  
+  --body-background-color: hsl(268, 75%, 9%);
 }

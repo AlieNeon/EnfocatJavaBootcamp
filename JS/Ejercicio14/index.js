@@ -1,3 +1,21 @@
+// Theming
+changeTheme("theme1");
+
+function changeTheme(theme) {
+  document.documentElement.classList.remove("theme1");
+  document.documentElement.classList.remove("theme2");
+  document.documentElement.classList.remove("theme3");
+  document.documentElement.classList.add(theme);
+}
+
+let label = document.getElementsByTagName("label");
+for (const element of label) {
+  element.onclick = () => {
+    changeTheme(element.getAttribute("for"));
+  };
+}
+
+// Calculator
 let display = [];
 
 function render() {
