@@ -14,16 +14,16 @@ $grid-breakpoints: (
   md: 500px,
   lg: 750px,
   xl: 1000px,
-  xxl: 1250px
+  xxl: 1250px,
 );
 
-@include media-breakpoint-between(xs, lg){
-    * {
-        background-color: violet;
-    }
+@include media-breakpoint-between(xs, lg) {
+  * {
+    background-color: violet;
+  }
 }
-@include media-breakpoint-between(lg, xxl){
-    * {
-        background-color: green;
-    }
+@include media-breakpoint-between(lg, xxl) {
+  * {
+    background-color: green;
+  }
 }

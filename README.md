@@ -12,3 +12,4 @@ Con uso de github pages puedes ver este mismo readme alli con el siguiente enlac
 - [HTML](html)
 - [CSS](css)
 - [BootStrap](bootstrap)
+- [JavaScript](JS)

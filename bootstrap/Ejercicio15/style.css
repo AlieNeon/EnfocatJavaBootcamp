@@ -39,7 +39,7 @@ body {
   color: rgba(255, 255, 255, 70%);
 }
 
-.name::after{
+.name::after {
   content: "Verified Graduate";
   color: rgba(0, 0, 0, 50%);
 }
