@@ -16,5 +16,3 @@ Ejercicios de Javasript
 - [x] [Ejercicio 12: Arrays](Ejercicio12)
 - [x] [Ejercicio 13: Arrays in DOM](Ejercicio13)
 - [x] [Ejercicio 14: Calculadora](Ejercicio14)
-- [ ] [Ejercicio 15: Quiz](Ejercicio15)
-- [ ] [Ejercicio 16: Form validation](Ejercicio16)
