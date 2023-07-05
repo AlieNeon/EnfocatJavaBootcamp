@@ -9,3 +9,4 @@ Ejercicios de SQL
 - [Ejercicio5: Select operations](ejercicio05.sql)
 - [Ejercicio6: SQL bolt](ejercicio06.png)
 - [Ejercicio7: Relations](ejercicio07.sql)
+- [Ejercicio8: N:M Relations](ejercicio08.sql)
