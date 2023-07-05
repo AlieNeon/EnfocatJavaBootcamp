@@ -7,3 +7,4 @@ Ejercicios de SQL
 - [Ejercicio3: DataTypes](ejercicio03.sql)
 - [Ejercicio4: DB a partir de UML](ejercicio04.sql)
 - [Ejercicio5: Select operations](ejercicio05.sql)
+- [Ejercicio6: SQL blolt](ejercicio06.png)
