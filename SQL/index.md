@@ -8,3 +8,4 @@ Ejercicios de SQL
 - [Ejercicio4: DB a partir de UML](ejercicio04.sql)
 - [Ejercicio5: Select operations](ejercicio05.sql)
 - [Ejercicio6: SQL bolt](ejercicio06.png)
+- [Ejercicio7: Relations](ejercicio07.sql)
