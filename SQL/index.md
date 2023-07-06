@@ -10,3 +10,4 @@ Ejercicios de SQL
 - [Ejercicio6: SQL bolt](ejercicio06.png)
 - [Ejercicio7: Relations](ejercicio07.sql)
 - [Ejercicio8: N:M Relations](ejercicio08.sql)
+- [Ejercicio9: SQL murder mistery](ejercicio09.md)
