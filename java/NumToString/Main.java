@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("Input a number: ");
 		int num = input.nextInt();
 		System.out.println(NUM_TO_STR[num]);
+		input.close();
 	}
 }
