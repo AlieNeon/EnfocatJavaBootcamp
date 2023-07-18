@@ -7,3 +7,4 @@ Ejercicios de Java
 - [x] [Ejercicio 3: Dequeueing](dequeueing)
 - [x] [Ejercicio 4: Recursion](recursion)
 - [x] [Ejercicio 5: Classes](classes)
+- [x] [Ejercicio 6: Inheritance](inheritance)
