@@ -6,3 +6,4 @@ Ejercicios de Java
 - [x] [Ejercicio 2: Arbol](tree)
 - [x] [Ejercicio 3: Dequeueing](dequeueing)
 - [x] [Ejercicio 4: Recursion](recursion)
+- [x] [Ejercicio 5: Classes](classes)
